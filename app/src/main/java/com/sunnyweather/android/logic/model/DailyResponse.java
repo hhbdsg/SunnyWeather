@@ -1,6 +1,7 @@
 package com.sunnyweather.android.logic.model;
 
 import com.google.gson.annotations.SerializedName;
+
 import java.util.Date;
 import java.util.List;
 
